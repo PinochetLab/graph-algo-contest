@@ -1,0 +1,3 @@
+﻿  Chip.cpp
+C:\Users\PinochetLab\source\repos\Contest3\Chip\Chip.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+  Chip.vcxproj -> C:\Users\PinochetLab\source\repos\Contest3\Debug\Chip.exe

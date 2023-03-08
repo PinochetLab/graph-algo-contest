@@ -1,0 +1,4 @@
+﻿  Top.cpp
+C:\Users\PinochetLab\source\repos\Contest3\Top\Top.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PinochetLab\source\repos\Contest3\Top\Top.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+  Top.vcxproj -> C:\Users\PinochetLab\source\repos\Contest3\Debug\Top.exe

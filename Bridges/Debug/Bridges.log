@@ -1,0 +1,4 @@
+﻿  Bridges.cpp
+C:\Users\PinochetLab\source\repos\Contest3\Bridges\Bridges.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PinochetLab\source\repos\Contest3\Bridges\Bridges.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+  Bridges.vcxproj -> C:\Users\PinochetLab\source\repos\Contest3\Debug\Bridges.exe

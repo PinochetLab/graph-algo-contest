@@ -1,0 +1,4 @@
+﻿  KillKing.cpp
+C:\Users\PinochetLab\source\repos\Contest3\KillKing\KillKing.cpp(81,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PinochetLab\source\repos\Contest3\KillKing\KillKing.cpp(87,23): warning C4018: '<': signed/unsigned mismatch
+  KillKing.vcxproj -> C:\Users\PinochetLab\source\repos\Contest3\Debug\KillKing.exe
